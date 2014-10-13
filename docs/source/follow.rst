@@ -34,7 +34,7 @@ Then the current logged in user will follow the actor defined by ``content_type_
 
 There is also a function ``actstream.actions.unfollow`` which removes the link and takes the same arguments as ``actstream.actions.follow``
 
-Now to retrive the follower/following relationships you can use the convient accessors
+Now to retrieve the follower/following relationships you can use the convient accessors
 
 .. code-block:: python
 
